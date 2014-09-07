@@ -1,1 +1,1 @@
-Raed me.
+Read me.
